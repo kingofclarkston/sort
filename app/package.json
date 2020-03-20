@@ -1,0 +1,11 @@
+{
+  "name": "sort",
+  "main": "string-sort.js",
+  "scripts": {
+    "test": "npm run && jest"
+  },
+  "devDependencies": {
+    "jest": "^23.6.0",
+    "supertest": "^3.3.0"
+  }
+}
